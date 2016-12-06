@@ -3,7 +3,7 @@
   "version": "0.0.9",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tushariscoolster/angular-nicescroll"
+    "url": "https://github.com/trunglb/angular-nicescroll"
   },
   "devDependencies": {
     "grunt": "^0.4.1",
